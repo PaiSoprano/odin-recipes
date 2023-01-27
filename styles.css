@@ -10,8 +10,17 @@ body {
     color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
-.link{
+.link,
+.txt,
+.title {
     color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold
     }
+.steps,
+.ingre,
+.header2 {
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
